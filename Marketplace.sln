@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAudit", "SimpleAudit\SimpleAudit.csproj", "{3D7C6075-26DF-491C-A3A7-80282A92874D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website", "Website\Website.csproj", "{70542611-F8F3-4D55-A491-0E23AE0A10AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D7C6075-26DF-491C-A3A7-80282A92874D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7C6075-26DF-491C-A3A7-80282A92874D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7C6075-26DF-491C-A3A7-80282A92874D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7C6075-26DF-491C-A3A7-80282A92874D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70542611-F8F3-4D55-A491-0E23AE0A10AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70542611-F8F3-4D55-A491-0E23AE0A10AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70542611-F8F3-4D55-A491-0E23AE0A10AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70542611-F8F3-4D55-A491-0E23AE0A10AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

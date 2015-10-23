@@ -1,0 +1,12 @@
+C:\Projects\Sitecore\Instances\marketplace\Website\bin\SimpleAudit.dll.config
+C:\Projects\Sitecore\Instances\marketplace\Website\bin\SimpleAudit.dll
+C:\Projects\Sitecore\Instances\marketplace\Website\bin\SimpleAudit.pdb
+C:\Projects\Sitecore\Instances\marketplace\Website\SimpleAudit\obj\Debug\SimpleAudit.csprojResolveAssemblyReference.cache
+C:\Projects\Sitecore\Instances\marketplace\Website\SimpleAudit\obj\Debug\SimpleAudit.dll
+C:\Projects\Sitecore\Instances\marketplace\Website\SimpleAudit\obj\Debug\SimpleAudit.pdb
+C:\Projects\Marketplace\SimpleAudit\obj\Debug\SimpleAudit.csprojResolveAssemblyReference.cache
+C:\Projects\Marketplace\SimpleAudit\obj\Debug\SimpleAudit.dll
+C:\Projects\Marketplace\SimpleAudit\obj\Debug\SimpleAudit.pdb
+C:\Projects\Marketplace\bin\SimpleAudit.dll.config
+C:\Projects\Marketplace\bin\SimpleAudit.dll
+C:\Projects\Marketplace\bin\SimpleAudit.pdb

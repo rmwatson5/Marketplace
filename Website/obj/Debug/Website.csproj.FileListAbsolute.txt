@@ -1,0 +1,14 @@
+C:\Projects\Sitecore\Instances\marketplace\Website\bin\Website.dll.config
+C:\Projects\Sitecore\Instances\marketplace\Website\bin\Website.dll
+C:\Projects\Sitecore\Instances\marketplace\Website\bin\Website.pdb
+C:\Projects\Sitecore\Instances\marketplace\Website\bin\log4net.xml
+C:\Projects\Sitecore\Instances\marketplace\Website\bin\Newtonsoft.Json.xml
+C:\Projects\Sitecore\Instances\marketplace\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Projects\Sitecore\Instances\marketplace\Website\obj\Debug\Website.dll
+C:\Projects\Sitecore\Instances\marketplace\Website\obj\Debug\Website.pdb
+C:\Projects\Marketplace\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Projects\Marketplace\Website\obj\Debug\Website.dll
+C:\Projects\Marketplace\Website\obj\Debug\Website.pdb
+C:\Projects\Marketplace\bin\Website.dll.config
+C:\Projects\Marketplace\bin\Website.dll
+C:\Projects\Marketplace\bin\Website.pdb
